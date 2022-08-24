@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg)
+![](https://raw.githubusercontent.com/ShariarHossain/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ShariarHossain/cf-stats/main/output/light_card.svg)
