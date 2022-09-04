@@ -16,7 +16,8 @@
 MDShariarHossainSun/MDShariarHossainSun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- 
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MDShariarHossainSun&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MDShariarHossainSun&theme=dark)](https://github.com/MDShariarHossainSun/github-readme-streak-stats)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MDShariarHossainSun&langs_count=5&theme=tokyonight)]()
 
