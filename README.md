@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+AM+MD.+SHARIAR+HOSSAIN+SUN;COMPUTER+SCIENCE+STUDENT;C+PROGRAMMING%20|%20CPP%20|%20JAVA%20|%20PHP%20|%20JAVASCRIPT%20;ALWAYS%20LEARNING%20NEW%20PROGRAMMING%20LANGUAGES%20&center=true&width=500&height=90"></a>
+</p>
+
 - 👋 Hi, I’m **MD. Shariar Hossain Sun**
 - 👀 I’m interested in programming...
 - 🌱 I’m currently learning web development using HTML, CSS and JavaScript...
@@ -35,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MDShariarHossainSun&layout=compact)
 
 ---------------------------------------------------------------------------------------------------------------------
-Credits: <a href="https://github.com/Bhargavi-hash">MDShariarHossainSun</a>
+Credits: <a href="https://github.com/MDShariarHossainSun">MDShariarHossainSun</a>
 
 Date: 04/09/2022
 
