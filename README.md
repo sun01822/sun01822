@@ -1,9 +1,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MDShariarHossainSun&label=Profile%20views&color=0e75b6&style=plastic" alt="MDShariarHossainSun" /> </p>
 <br>
 <br>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+AM+MD.+SHARIAR+HOSSAIN+SUN;COMPUTER+SCIENCE+STUDENT;C+PROGRAMMING%20|%20CPP%20|%20JAVA%20|%20PHP%20|%20JAVASCRIPT%20;ALWAYS%20LEARNING%20NEW%20PROGRAMMING%20LANGUAGES%20&center=true&width=500&height=90"></a>
-</p>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=29E92D&center=true&vCenter=true&width=1200&height=100&lines=I+am+MD.+Shariar+Hossain+Sun;Computer+Science+Student;C+Programming+%7C+CPP+%7C+Java+%7C+PHP+%7C+JavaScript;Always+Learning+New+Programming+Languages" alt="Typing SVG" /></a>
+<br> 
+<br>
 
 - 👋 Hi, I’m **MD. Shariar Hossain Sun**
 - 👀 I’m interested in programming...
