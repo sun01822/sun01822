@@ -45,9 +45,8 @@ You can click the Preview link to take a look at your changes.
   
 </div>
 
-&emsp;
-![My github status](https://github-readme-stats.vercel.app/api?username=MDShariarHossainSun&show_icons=true&include_all_commits=true)  &emsp; &emsp; &emsp; &emsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MDShariarHossainSun&layout=compact)
+![My github status](https://github-readme-stats.vercel.app/api?username=MDShariarHossainSun&show_icons=true&include_all_commits=true)  &emsp; &emsp;
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MDShariarHossainSun&theme=white-green)
 
 
 <br>
