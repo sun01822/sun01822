@@ -77,7 +77,7 @@ You can click the Preview link to take a look at your changes.
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%357EC7.svg?logo=python&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2300599C.svg?logo=python&logoColor=yellow">
   </a>
   &emsp;
   <a href="https://www.php.net/">
@@ -117,10 +117,10 @@ You can click the Preview link to take a look at your changes.
   &emsp;
     <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-5C5551.svg?logo=sublime-text&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-E5E4E2?logo=stack-overflow&logoColor=orange"></a>
   &emsp;
-	 &emsp;
-    <a href="#"><img alt="Netbeans" src="https://img.shields.io/badge/%20Netbeans-FE7A16?logo=netbeans&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Xampp" src="https://img.shields.io/badge/Xampp-FE7A16?logo=xampp&logoColor=white"></a>
   &emsp;
 </p>
 
