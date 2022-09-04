@@ -1,3 +1,6 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MDShariarHossainSun&label=Profile%20views&color=0e75b6&style=plastic" alt="MDShariarHossainSun" /> </p>
+<br>
+<br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+AM+MD.+SHARIAR+HOSSAIN+SUN;COMPUTER+SCIENCE+STUDENT;C+PROGRAMMING%20|%20CPP%20|%20JAVA%20|%20PHP%20|%20JAVASCRIPT%20;ALWAYS%20LEARNING%20NEW%20PROGRAMMING%20LANGUAGES%20&center=true&width=500&height=90"></a>
 </p>
