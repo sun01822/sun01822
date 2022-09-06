@@ -13,11 +13,13 @@
 <h2><picture> <img src = "https://github.com/MDShariarHossainSun/MDShariarHossainSun/blob/main/images/me.gif?raw=true" width = 50px>  </picture> About me</h2>
 <picture> <img align="right" src="https://github.com/MDShariarHossainSun/MDShariarHossainSun/blob/main/images/computer.gif?raw=true" width = 250px></picture>
 <br><br>
-- :school: I am a `Student` at <b><a href="https://vu.edu.bd/">Varendra University</a></b>.<br>
-- 👀 I’m interested in programming...<br>
-- :computer: I am a competitive programmer at `git status`,  `Atcoder`,  `Leetcode`,  `Codechef`.<br>
+
+
+- :school: I am a `Student` at [Varendra University, Bangladesh](https://vu.edu.bd/).
+- :eyes: I’m interested in programming...<br>
+- :computer: I am a competitive programmer at `CodeForces`,  `HackerRank`, `Codechef`, `beecrowd`.<br>
 - :student: I’m currently learning web development using `HTML`, `CSS` and `JavaScript`...<br>
-- 💞️ I’m looking to collaborate on software development using C/C++.... <br>
+- :revolving_hearts: I’m looking to collaborate on software development using `C`/`C++`.... <br>
 
 
 <br>
