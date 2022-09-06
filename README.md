@@ -123,7 +123,7 @@ You can click the Preview link to take a look at your changes.
   &emsp;
 </p>
 
-### 👉 Software & Tools
+### 👉 Software 
 <p>
  &emsp;
     <a href="#"><img alt="Code Blocks" src="https://img.shields.io/badge/CodeBlocks-23FF0000.svg?logo=codeblocks&logoColor=white"></a>
@@ -131,10 +131,6 @@ You can click the Preview link to take a look at your changes.
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-5C5551.svg?logo=sublime-text&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-E5E4E2?logo=stack-overflow&logoColor=orange"></a>
-  &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
   &emsp;
@@ -144,6 +140,14 @@ You can click the Preview link to take a look at your changes.
   &emsp;
 </p>
 
+### 👉 Tools
+<p>
+  &emsp;
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-E5E4E2?logo=stack-overflow&logoColor=orange"></a>
+  &emsp;
+    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
+  &emsp;
+</p>
 
 ### 👉 Competitive Programming & Problem Solving
 <p>
