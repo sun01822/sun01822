@@ -6,7 +6,9 @@
 <br> 
 <br>
 
-- 👋 Hi, I’m **MD. Shariar Hossain Sun**
+<br>
+
+- 👋 Hi, I’m <span style="color: #306EFF;"><b>MD. Shariar Hossain Sun</b><span>
 - 👀 I’m interested in programming...
 - 🌱 I’m currently learning web development using HTML, CSS and JavaScript...
 - 💞️ I’m looking to collaborate on software development using C/C++....
@@ -147,6 +149,6 @@ You can click the Preview link to take a look at your changes.
 <hr>
 Credits: <a href="https://github.com/MDShariarHossainSun">MDShariarHossainSun</a>
 
-Date: 04/09/2022
+Date: 06/09/2022
 
 
