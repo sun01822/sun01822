@@ -1,18 +1,23 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MDShariarHossainSun&label=Profile%20views&color=0e75b6&style=plastic" alt="MDShariarHossainSun" /> </p>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm MD. Shariar Hossain Sun</h1>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MDShariarHossainSun&label=Profile%20views&color=0e75b6&style=plastic" alt="MDShariarHossainSun"/> 
+</p>
 <br>
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=29E92D&center=true&vCenter=true&width=1200&height=100&lines=I+am+MD.+Shariar+Hossain+Sun;Computer+Science+Student;C+Programming+%7C+CPP+%7C+Java+%7C+PHP+%7C+JavaScript;Always+Learning+New+Programming+Languages" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=29E92D&center=true&vCenter=true&width=1200&height=100&lines=I+am+MD.+Shariar+Hossain+Sun;Computer+Science+Student;C+Programming+%7C+CPP+%7C+Java+%7C+PHP+%7C+JavaScript;DS%20|%20Algorithms%20|%20OOP%20;Always+Learning+New+Programming+Languages" alt="Typing SVG" /></a>
 <br> 
 <br>
 
 <br>
-
-- 👋 Hi, I’m <span><b>MD. Shariar Hossain Sun</b><span>
-- 👀 I’m interested in programming...
-- 🌱 I’m currently learning web development using HTML, CSS and JavaScript...
-- 💞️ I’m looking to collaborate on software development using C/C++....
-- 📫 How to reach me -> using my linkedin account link  **[MD. Shariar Hossain Sun](https://www.linkedin.com/in/md-shariar-hossain-sun-aa77621ab/)**...
+<h2><picture> <img src = "https://github.com/MDShariarHossainSun/MDShariarHossainSun/blob/main/images/me.gif?raw=true" width = 50px>  </picture> About me</h2>
+<picture> <img align="right" src="https://github.com/MDShariarHossainSun/MDShariarHossainSun/blob/main/images/computer.gif?raw=true" width = 250px></picture>
+<br><br>
+- :school: I am a `Student` at <b><a href="https://vu.edu.bd/">Varendra University</a></b>.<br>
+- 👀 I’m interested in programming...<br>
+- :computer: I am a competitive programmer at `Codeforces`,  `Atcoder`,  `Leetcode`,  `Codechef`.<br>
+- :student: I’m currently learning web development using `HTML`, `CSS` and `JavaScript`...<br>
+- 💞️ I’m looking to collaborate on software development using C/C++.... <br>
 
 
 <br>
@@ -50,6 +55,12 @@ You can click the Preview link to take a look at your changes.
 
 ![My github status](https://github-readme-stats.vercel.app/api?username=MDShariarHossainSun&show_icons=true&include_all_commits=true)  &emsp; &emsp;
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MDShariarHossainSun&theme=white-green)
+
+<br>
+<br>
+
+[![Muhammadsher's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=MDShariarHossainSun&country_code=bangladesh&show_private=true)](https://github.com/Muhammadsher/github-readme-ranking)
+<br>
 
 
 <br>
@@ -113,7 +124,7 @@ You can click the Preview link to take a look at your changes.
 ### 👉 Software & Tools
 <p>
  &emsp;
-    <a href="#"><img alt="Code Blocks" src="https://img.shields.io/badge/Code%20Blocks-23FF0000.svg?logo=code-blocks&logoColor=white"></a>
+    <a href="#"><img alt="Code Blocks" src="https://img.shields.io/badge/CodeBlocks-23FF0000.svg?logo=codeblocks&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   &emsp;
@@ -121,9 +132,29 @@ You can click the Preview link to take a look at your changes.
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-E5E4E2?logo=stack-overflow&logoColor=orange"></a>
   &emsp;
+    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/Apache%20Netbeans-%1B6AC6.svg?&style=plastic&logo=apache-netbeans&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt="Xampp" src="https://img.shields.io/badge/Xampp-FE7A16?logo=xampp&logoColor=white"></a>
   &emsp;
+</p>
+
+
+### 👉 Competitive Programming & Problem Solving
+<p>
+  &emsp;
+    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
+  &emsp;
+    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/beecrowd-%23F2BB13.svg?&style=plastic&logo=beecrowd&logoColor=black" /></a>
 </p>
 
 
