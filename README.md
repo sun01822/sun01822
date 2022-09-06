@@ -15,7 +15,7 @@
 <br><br>
 - :school: I am a `Student` at <b><a href="https://vu.edu.bd/">Varendra University</a></b>.<br>
 - 👀 I’m interested in programming...<br>
-- :computer: I am a competitive programmer at `Codeforces`,  `Atcoder`,  `Leetcode`,  `Codechef`.<br>
+- :computer: I am a competitive programmer at `git status`,  `Atcoder`,  `Leetcode`,  `Codechef`.<br>
 - :student: I’m currently learning web development using `HTML`, `CSS` and `JavaScript`...<br>
 - 💞️ I’m looking to collaborate on software development using C/C++.... <br>
 
