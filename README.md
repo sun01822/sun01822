@@ -155,6 +155,8 @@ You can click the Preview link to take a look at your changes.
   &emsp;
     <a href="#"><img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github"></a> 
   &emsp;
+    <a href="#"><img alt="Windows" src="http://img.shields.io/badge/-Windows-0078D6?style=plastic&logo=windows&logoColor=ffffff"></a>
+  &emsp;
 </p>
 
 ### 👉 Competitive Programming & Problem Solving
