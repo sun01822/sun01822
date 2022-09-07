@@ -158,9 +158,15 @@ You can click the Preview link to take a look at your changes.
   &emsp;
     <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
   &emsp;
+    <a href="#"><img alt = "Virtual Judge" src="https://img.shields.io/badge/Virtual%20Judge-%23F7DF1E.svg?style=plastic&logo=vjudge&logoColor=white" /></a>
+  &emsp;
     <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/beecrowd-%23F2BB13.svg?&style=plastic&logo=beecrowd&logoColor=black" /></a>
+    <a href="#"><img alt = "Beecrowd" src="https://img.shields.io/badge/beecrowd-%23F2BB13.svg?&style=plastic&logo=beecrowd&logoColor=black" /></a>
+   &emsp;
+    <a href="#"><img alt = "UVA" src="https://img.shields.io/badge/uva-%20FF69B4.svg?&style=plastic&logo=uva&logoColor=black" /></a>
+   &emsp;
+    <a href="#"><img alt = "Toph" src="https://img.shields.io/badge/toph-%2300599C.svg?&style=plastic&logo=toph&logoColor=white" /></a>
 </p>
 
 
@@ -186,6 +192,6 @@ You can click the Preview link to take a look at your changes.
 <hr>
 Credits: <a href="https://github.com/MDShariarHossainSun">MDShariarHossainSun</a>
 
-Date: 06/09/2022
+Date: 07/09/2022
 
 
