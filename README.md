@@ -1,9 +1,12 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm MD. Shariar Hossain Sun</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MDShariarHossainSun&label=Profile%20views&color=0e75b6&style=plastic" alt="MDShariarHossainSun"/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MDShariarHossainSun&label=Profile%20views&color=32CD32&style=plastic" alt="MDShariarHossainSun"/>
 <a href="https://github.com/MDShariarHossainSun" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MDShariarHossainSun?label=Github%20followers&style=plastic">
-</a> <br> <br>
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MDShariarHossainSun?label=Github%20followers&style=plastic&color=32CD32">
+</a> 
+<img alt="Age" src="https://img.shields.io/badge/Age-23-%23FF0000.svg?style=plastic&color=32CD32">
+<img alt="Country" src="https://img.shields.io/badge/Lives-Bangladesh-%23FF0000.svg?style=plastic&color=3EA055" />
+<br> <br>
 </p>
 
 <br>
@@ -65,7 +68,8 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 
-[![Muhammadsher's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=MDShariarHossainSun&country_code=bangladesh&show_private=true)](https://github.com/Muhammadsher/github-readme-ranking)
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
+[![MDShariarHossainSun's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=MDShariarHossainSun&country_code=bangladesh&show_private=true)](https://github.com/Muhammadsher/github-readme-ranking)
 <br>
 
 
@@ -80,27 +84,27 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2300599C.svg?logo=python&logoColor=yellow">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2300599C.svg?style=plastic&logo=python&logoColor=yellow">
   </a>
   &emsp;
   <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white"/>
   </a>
 </p>
 
@@ -108,22 +112,22 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
    &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white"/>
   </a>
 </p>
 
 ### 👉 Databases
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&llogo=mysql&logoColor=white"></a>
   &emsp;
     <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019"><img alt="MS Sql Server" src="https://img.shields.io/badge/-Sql%20Server-CC2927?style=plastic&logo=microsoft-sql-server&logoColor=ffffff"></a>
   &emsp;
@@ -132,24 +136,24 @@ You can click the Preview link to take a look at your changes.
 ### 👉 Software 
 <p>
  &emsp;
-    <a href="#"><img alt="Code Blocks" src="https://img.shields.io/badge/CodeBlocks-23FF0000.svg?logo=codeblocks&logoColor=white"></a>
+    <a href="#"><img alt="Code Blocks" src="https://img.shields.io/badge/CodeBlocks-%23FF0000.svg?style=plastic&logo=codeblocks&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-5C5551.svg?logo=sublime-text&logoColor=white"></a>
+    <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-5C5551.svg?style=plastic&logo=sublime-text&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/Apache%20Netbeans-%1B6AC6.svg?&style=plastic&logo=apache-netbeans&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt="Xampp" src="https://img.shields.io/badge/Xampp-FE7A16?logo=xampp&logoColor=white"></a>
+    <a href="#"><img alt="Xampp" src="https://img.shields.io/badge/Xampp-FE7A16?&style=plastic&logo=xampp&logoColor=white"></a>
   &emsp;
 </p>
 
 ### 👉 Tools
 <p>
   &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-E5E4E2?logo=stack-overflow&logoColor=orange"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-E5E4E2?style=plastic&logo=stack-overflow&logoColor=orange"></a>
   &emsp;
     <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
@@ -179,16 +183,15 @@ You can click the Preview link to take a look at your changes.
     <a href="#"><img alt = "Toph" src="https://img.shields.io/badge/toph-%2300599C.svg?&style=plastic&logo=toph&logoColor=white" /></a>
 </p>
 
+<br>
+<br>
 
-<!--
-### 👉 Trophy
+
+##  🏆Github Profile Trophies
 <br>
-<br>
-<p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=MDShariarHossainSun)](https://github.com/MDShariarHossainSun/github-profile-trophy)
+<p align="center">
+	<img src="https://github-profile-trophy.vercel.app/?username=MDShariarHossainSun&theme=juicyfresh&no-bg=true&row=2&column=4&margin-w=15&margin-h=20" />
 </p>
--->
-
 <br>
 <br>
 
