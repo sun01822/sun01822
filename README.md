@@ -129,6 +129,11 @@ You can click the Preview link to take a look at your changes.
   &emsp;
     <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019"><img alt="MS Sql Server" src="https://img.shields.io/badge/-Sql%20Server-CC2927?style=plastic&logo=microsoft-sql-server&logoColor=ffffff"></a>
   &emsp;
+  <a href="https://www.postgresql.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=plastic&logo=postgresql&logoColor=white"
+      alt="postgresql"/> 
+  </a>
+  &emsp;
 </p>
 
 ### 👉 Software 
