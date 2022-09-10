@@ -125,7 +125,7 @@ You can click the Preview link to take a look at your changes.
 ### 👉 Databases
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&llogo=mysql&logoColor=white"></a>
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-FF7F50?style=plastic&logo=mysql&logoColor=white"></a>
   &emsp;
     <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019"><img alt="MS Sql Server" src="https://img.shields.io/badge/-Sql%20Server-CC2927?style=plastic&logo=microsoft-sql-server&logoColor=ffffff"></a>
   &emsp;
