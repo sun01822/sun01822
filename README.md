@@ -181,7 +181,7 @@ You can click the Preview link to take a look at your changes.
   &emsp;
     <a href="#"><img alt = "Beecrowd" src="https://img.shields.io/badge/beecrowd-%23F2BB13.svg?&style=plastic&logo=beecrowd&logoColor=white" /></a>
    &emsp;
-    <a href="#"><img alt = "UVA" src="https://img.shields.io/badge/uva-%20FF69B4.svg?&style=plastic&logo=uva&logoColor=black" /></a>
+    <a href="#"><img alt = "UVA" src="https://img.shields.io/badge/UVA-%20FF69B4.svg?&style=plastic&logo=uva&logoColor=black" /></a>
    &emsp;
     <a href="#"><img alt = "Toph" src="https://img.shields.io/badge/toph-%2300599C.svg?&style=plastic&logo=toph&logoColor=white" /></a>
 </p>
