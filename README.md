@@ -169,21 +169,21 @@ You can click the Preview link to take a look at your changes.
 ### 👉 Competitive Programming & Problem Solving
 <p>
   &emsp;
-    <a href="https://codeforces.com/profile/ShariarHossain" target="_blank"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
+    <a href="https://codeforces.com/profile/ShariarHossain"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
   &emsp;
-    <a href="#"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
+    <a href="https://www.hackerrank.com/ShariarHossain"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
+    <a href="https://www.codechef.com/users/sun01822"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt = "Virtual Judge" src="https://img.shields.io/badge/Virtual%20Judge-%23F7DF1E.svg?style=plastic&logo=vjudge&logoColor=white" /></a>
+    <a href="https://vjudge.net/user/Sun01822"><img alt = "Virtual Judge" src="https://img.shields.io/badge/Virtual%20Judge-%23F7DF1E.svg?style=plastic&logo=vjudge&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt = "Beecrowd" src="https://img.shields.io/badge/beecrowd-%23F2BB13.svg?&style=plastic&logo=beecrowd&logoColor=white" /></a>
+    <a href="https://www.beecrowd.com.br/judge/en/profile/457135"><img alt = "Beecrowd" src="https://img.shields.io/badge/beecrowd-%23F2BB13.svg?&style=plastic&logo=beecrowd&logoColor=white" /></a>
    &emsp;
-    <a href="#"><img alt = "UVA" src="https://img.shields.io/badge/UVa-%20FF69B4.svg?&style=plastic&logo=uva&logoColor=black" /></a>
+    <a href="https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3"><img alt = "UVA" src="https://img.shields.io/badge/UVa-%20FF69B4.svg?&style=plastic&logo=uva&logoColor=black" /></a>
    &emsp;
-    <a href="#"><img alt = "Toph" src="https://img.shields.io/badge/toph-%2300599C.svg?&style=plastic&logo=toph&logoColor=white" /></a>
+    <a href="https://toph.co/u/ShariarHossain"><img alt = "Toph" src="https://img.shields.io/badge/toph-%2300599C.svg?&style=plastic&logo=toph&logoColor=white" /></a>
 </p>
 
 <br>
@@ -216,6 +216,6 @@ You can click the Preview link to take a look at your changes.
 <hr>
 Credits: <a href="https://github.com/MDShariarHossainSun">MDShariarHossainSun</a>
 
-Date: 09/09/2022
+Date: 12/09/2022
 
 
