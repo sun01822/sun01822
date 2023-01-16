@@ -61,19 +61,6 @@ You can click the Preview link to take a look at your changes.
   
 </div>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=MDShariarHossainSun&show_icons=true&include_all_commits=true)  &emsp; &emsp;
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MDShariarHossainSun&theme=white-green)
-
-<br>
-<br>
-
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
-[![MDShariarHossainSun's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=MDShariarHossainSun&country_code=bangladesh&show_private=true)](https://github.com/Muhammadsher/github-readme-ranking)
-<br>
-
-
-<br>
-<br>
 <br>
 
 ## 🛠️ My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
