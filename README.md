@@ -30,21 +30,21 @@
 
 <br>
 <br>
-<h2>👀 My CodeForces Stats</h2>
+<h2><b>&#128200; Competitive Programming</b></h2>
 
 ![](https://raw.githubusercontent.com/MDShariarHossainSun/Codeforces-Stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/MDShariarHossainSun/Codeforces-Stats/main/output/light_card.svg)
 
-
 ![](https://raw.githubusercontent.com/MDShariarHossainSun/Codeforces-Stats/main/output/max_rating.svg)
 ![](https://raw.githubusercontent.com/MDShariarHossainSun/Codeforces-Stats/main/output/rating.svg)
+<br><br><br>
+<img height="273em" src="https://leetcard.jacoblin.cool/sun01822?theme=light&font=Karma&ext=contest" />
 
 <!---
 MDShariarHossainSun/MDShariarHossainSun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-<br>
 <br>
 
 <h2>👀 My github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px></h2> 
