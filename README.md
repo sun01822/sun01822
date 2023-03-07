@@ -4,6 +4,9 @@
 <a href="https://github.com/MDShariarHossainSun" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/MDShariarHossainSun?label=Github%20followers&style=plastic&color=32CD32">
 </a> 
+	<a href="https://leetcode.com/sun01822/">
+	  <img src="https://cp-logo.vercel.app/leetcode/sun01822?label=Github%20followers&style=plastic&color=32CD32" alt="Leet code rating" />
+ </a>
 <img alt="Age" src="https://img.shields.io/badge/Age-23-%23FF0000.svg?style=plastic&color=32CD32">
 <img alt="Country" src="https://img.shields.io/badge/Lives-Bangladesh-%23FF0000.svg?style=plastic&color=3EA055" />
 <br>
@@ -204,6 +207,6 @@ You can click the Preview link to take a look at your changes.
 <hr>
 Credits: <a href="https://github.com/MDShariarHossainSun">MDShariarHossainSun</a>
 
-Date: 27/02/2023
+Date: 07/03/2023
 
 
