@@ -27,7 +27,7 @@
 - :school: I am a `Student` at [Varendra University, Bangladesh](https://vu.edu.bd/).
 - :eyes: I’m interested in programming...<br>
 - :computer: I am a competitive programmer at `CodeForces`,  `HackerRank`, `Codechef`, `beecrowd`.<br>
-- :student: I’m currently learning Android app development using `Kotlin`, `Local Database` and `Fire Base`...<br>
+- :student: I’m currently learning Android app development using `Kotlin` and `Fire Base`...<br>
 - :revolving_hearts: I’m looking to collaborate on software development using `Kotlin`.... <br>
 
 
