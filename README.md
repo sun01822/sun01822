@@ -14,7 +14,7 @@
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=29E92D&center=true&vCenter=true&width=1200&height=100&lines=I+am+MD.+Shariar+Hossain+Sun;Computer+Science+Student;C+Programming+%7C+CPP+%7C+Java+%7C+PHP+%7C+JavaScript;DS%20|%20Algorithms%20|%20OOP%20;Always+Learning+New+Programming+Languages" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=29E92D&center=true&vCenter=true&width=1200&height=100&lines=I+am+MD.+Shariar+Hossain+Sun;Computer+Science+Student;C+Programming+%7C+CPP+%7C+Java+%7C+PHP+%7C+Kotlin;DS%20|%20Algorithms%20|%20OOP%20;Always+Learning+New+Programming+Languages" alt="Typing SVG" /></a>
 
 <br> 
 <br>
@@ -27,8 +27,8 @@
 - :school: I am a `Student` at [Varendra University, Bangladesh](https://vu.edu.bd/).
 - :eyes: I’m interested in programming...<br>
 - :computer: I am a competitive programmer at `CodeForces`,  `HackerRank`, `Codechef`, `beecrowd`.<br>
-- :student: I’m currently learning web development using `HTML`, `CSS` and `JavaScript`...<br>
-- :revolving_hearts: I’m looking to collaborate on software development using `C`/`C++`.... <br>
+- :student: I’m currently learning Android app development using `Kotlin`, `Local Database` and `Fire Base`...<br>
+- :revolving_hearts: I’m looking to collaborate on software development using `Kotlin`.... <br>
 
 
 <br>
@@ -207,6 +207,6 @@ You can click the Preview link to take a look at your changes.
 <hr>
 Credits: <a href="https://github.com/MDShariarHossainSun">MDShariarHossainSun</a>
 
-Date: 07/03/2023
+Date: 10/05/2023
 
 
