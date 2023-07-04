@@ -52,19 +52,9 @@ You can click the Preview link to take a look at your changes.
 
 <h2>👀 My github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px></h2> 
 
-<div>
-<!--   <p align="center">
-    <b><em>Now listening to:</em></b> <br/>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=MDShariarHossainSun&cover_image=true&theme=novatorem" alt="Now Listenting to" />
-  </p> -->
-  
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MDShariarHossainSun" alt="GitHub Stats" /> <br/><br/>
-  
-</div>
-
-<br>
+<p>
+	[![GitHub Streak](https://streak-stats.demolab.com?user=sun01822&theme=vue)](https://git.io/streak-stats)	
+</p>
 
 ## 🛠️ My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
@@ -221,5 +211,5 @@ You can click the Preview link to take a look at your changes.
 <hr>
 Credits: <a href="https://github.com/MDShariarHossainSun">MDShariarHossainSun</a>
 
-Date: 10/05/2023
+Date: 04/07/2023
 
