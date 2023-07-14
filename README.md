@@ -52,6 +52,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2>👀 My github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px></h2> 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sun01822&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=sun01822&theme=vue&card_width=600)](https://git.io/streak-stats)
 
 <br>
