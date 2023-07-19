@@ -72,7 +72,7 @@ You can click the Preview link to take a look at your changes.
   </a> 
   &emsp;
   <a href="https://www.php.net/">
-    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%a4c639.svg?style=plastic&logo=kotlin&logoColor=white"/>
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%2370ED.svg?style=plastic&logo=kotlin&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -111,13 +111,15 @@ You can click the Preview link to take a look at your changes.
 ### 👉 Databases
 <p align="left">
   &emsp;
+	<a href="https://www.firebase.com/"><img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFA500?style=plastic&logo=firebase&logoColor=white"></a></a>
+	&emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-FF7F50?style=plastic&logo=mysql&logoColor=white"></a>
   &emsp;
-    <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019"><img alt="MS Sql Server" src="https://img.shields.io/badge/-Sql%20Server-CC2927?style=plastic&logo=microsoft-sql-server&logoColor=ffffff"></a>
+    <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019"><img alt="MS SQL Server" src="https://img.shields.io/badge/-Sql%20Server-CC2927?style=plastic&logo=microsoft-sql-server&logoColor=ffffff"></a>
   &emsp;
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=plastic&logo=postgresql&logoColor=white"
-      alt="postgresql"/> 
+      alt="PostgreSQL"/> 
   </a>
   &emsp;
 </p>
@@ -125,6 +127,8 @@ You can click the Preview link to take a look at your changes.
 ### 👉 Software 
 <p>
  &emsp;
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android Studio-A4C639.svg?style=plastic&logo=androidstudio&logoColor=white"></a>
+  &emsp;
     <a href="#"><img alt="Code Blocks" src="https://img.shields.io/badge/CodeBlocks-%23FF0000.svg?style=plastic&logo=codeblocks&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
@@ -143,6 +147,8 @@ You can click the Preview link to take a look at your changes.
 <p>
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-E5E4E2?style=plastic&logo=stack-overflow&logoColor=orange"></a>
+  &emsp;
+    <a href="#"><img alt="Medium" src="https://img.shields.io/badge/-Medium-0000cd?style=plastic&logo=medium&logoColor=orange"></a>
   &emsp;
     <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
