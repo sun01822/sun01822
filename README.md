@@ -71,6 +71,10 @@ You can click the Preview link to take a look at your changes.
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
   &emsp;
+  <a href="https://www.php.net/">
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%23777BB4.svg?style=plastic&logo=php&logoColor=white"/>
+  </a>
+  &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
