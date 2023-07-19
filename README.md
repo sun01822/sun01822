@@ -72,7 +72,7 @@ You can click the Preview link to take a look at your changes.
   </a> 
   &emsp;
   <a href="https://www.php.net/">
-    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%23777BB4.svg?style=plastic&logo=kotlin&logoColor=white"/>
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%a4c639.svg?style=plastic&logo=kotlin&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
