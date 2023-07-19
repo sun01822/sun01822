@@ -169,7 +169,7 @@ You can click the Preview link to take a look at your changes.
   &emsp;
     <a href="https://vjudge.net/user/Sun01822"><img alt = "Virtual Judge" src="https://img.shields.io/badge/Virtual%20Judge-%23F7DF1E.svg?style=plastic&logo=vjudge&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
+    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-4285f4.svg?style=plastic&logo=google&logoColor=white" /></a>
   &emsp;
     <a href="https://www.beecrowd.com.br/judge/en/profile/457135"><img alt = "Beecrowd" src="https://img.shields.io/badge/beecrowd-%23F2BB13.svg?&style=plastic&logo=beecrowd&logoColor=white" /></a>
    &emsp;
