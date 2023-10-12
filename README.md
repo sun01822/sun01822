@@ -213,7 +213,7 @@ You can click the Preview link to take a look at your changes.
 	<a href="https://github.com/sun01822" title="GitHub"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/md-shariar-hossain-sun-aa77621ab/" title="LinkedIn"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/sun01822/" title="Facebook"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="#" title="Instagram"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.instagram.com/sun01822/" title="Instagram"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://www.youtube.com/channel/UCKDcAIXD1RwBoWnNwk6S4bg" title="Youtube"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
 </p>
 
@@ -223,5 +223,5 @@ You can click the Preview link to take a look at your changes.
 <hr>
 Credits: <a href="https://github.com/sun01822">MDShariarHossainSun</a>
 
-Date: 13/08/2023
+Date: 12/10/2023
 
