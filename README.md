@@ -72,7 +72,7 @@ You can click the Preview link to take a look at your changes.
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://www.php.net/">
+  <a href="https://kotlinlang.org/docs/home.html">
     <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%2370ED.svg?style=plastic&logo=kotlin&logoColor=white"/>
   </a>
   &emsp;
@@ -91,6 +91,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white"/>
   </a>
+  <a href="https://go.dev/">
+    <img alt="GO" src="https://img.shields.io/badge/GO-%23007d9c.svg?style=plastic&logo=go&logoColor=white"/>
+  </a>	
 </p>
 
 ### 👉 Frontend Development
