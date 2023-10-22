@@ -91,6 +91,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white"/>
   </a>
+  &emsp;
   <a href="https://go.dev/">
     <img alt="GO" src="https://img.shields.io/badge/GO-%23007d9c.svg?style=plastic&logo=go&logoColor=white"/>
   </a>	
