@@ -23,7 +23,7 @@
 
 <h2><picture> <img src = "https://github.com/MDShariarHossainSun/MDShariarHossainSun/blob/main/images/me.gif?raw=true" width = 50px>  </picture> About me</h2>
 <!--<picture> <img align="right" src="https://github.com/MDShariarHossainSun/MDShariarHossainSun/blob/main/images/computer.gif?raw=true" width = 250px></picture>-->
-<picture> <img align="right" src="https://miro.medium.com/v2/resize:fit:1000/0*GjvouQXgr4ujzMI4.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/MDShariarHossainSun/MDShariarHossainSun/blob/main/images/go.gif?raw=true" width = 250px></picture>
 <br><br>
 
 <!-- - :student: I’m currently learning Android app development using `Kotlin` and `Firebase`...<br> 
