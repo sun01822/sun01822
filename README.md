@@ -1,4 +1,5 @@
-![2000_600px](https://github.com/sun01822/sun01822/assets/75157104/3613ea4b-de16-4ea5-8d25-8fc2a65be3f0)
+<!--![2000_600px](https://github.com/sun01822/sun01822/assets/75157104/3613ea4b-de16-4ea5-8d25-8fc2a65be3f0)-->
+<img src="https://img-c.udemycdn.com/course/750x422/2666276_8380.jpg" alt="GO Lang Challenge" style="width: 100%;"/>
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm MD. Shariar Hossain Sun</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MDShariarHossainSun&label=Profile%20views&color=32CD32&style=plastic" alt="MDShariarHossainSun"/>
@@ -21,15 +22,18 @@
 <br>
 
 <h2><picture> <img src = "https://github.com/MDShariarHossainSun/MDShariarHossainSun/blob/main/images/me.gif?raw=true" width = 50px>  </picture> About me</h2>
-<picture> <img align="right" src="https://github.com/MDShariarHossainSun/MDShariarHossainSun/blob/main/images/computer.gif?raw=true" width = 250px></picture>
+<!--<picture> <img align="right" src="https://github.com/MDShariarHossainSun/MDShariarHossainSun/blob/main/images/computer.gif?raw=true" width = 250px></picture>-->
+<picture> <img align="right" src="https://miro.medium.com/v2/resize:fit:1000/0*GjvouQXgr4ujzMI4.gif?raw=true" width = 250px></picture>
 <br><br>
 
+<!-- - :student: I’m currently learning Android app development using `Kotlin` and `Firebase`...<br> 
+- :revolving_hearts: I’m looking to collaborate on software development using `Kotlin`.... <br>-->
 
 - :school: I am a `Student` at [Varendra University, Bangladesh](https://vu.edu.bd/).
 - :eyes: I’m interested in programming...<br>
 - :computer: I am a competitive programmer at `CodeForces`,  `HackerRank`, `Codechef`, `beecrowd`.<br>
-- :student: I’m currently learning Android app development using `Kotlin` and `Firebase`...<br>
-- :revolving_hearts: I’m looking to collaborate on software development using `Kotlin`.... <br>
+- :student: I’m currently learning Backend development using `GO Lang`...
+- :revolving_hearts: I’m looking to collaborate on software development using `GO Lang`.... <br>
 
 
 <br>
@@ -227,5 +231,5 @@ You can click the Preview link to take a look at your changes.
 <hr>
 Credits: <a href="https://github.com/sun01822">MDShariarHossainSun</a>
 
-Date: 22/10/2023
+Date: 20/11/2023
 
