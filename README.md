@@ -31,7 +31,7 @@
 
 - :school: I am a `Student` at [Varendra University, Bangladesh](https://vu.edu.bd/).
 - :eyes: I’m interested in programming...<br>
-- :computer: I am a competitive programmer at `CodeForces`,  `HackerRank`, `Codechef`, `beecrowd`.<br>
+- :computer: I am a competitive programmer at `LeetCode`, `CodeForces`,  `HackerRank`, `Codechef`, `beecrowd`.<br>
 - :student: I’m currently learning Backend development using `GO Lang`...
 - :revolving_hearts: I’m looking to collaborate on software development using `GO Lang`.... <br>
 
@@ -231,5 +231,5 @@ You can click the Preview link to take a look at your changes.
 <hr>
 Credits: <a href="https://github.com/sun01822">MDShariarHossainSun</a>
 
-Date: 20/11/2023
+Date: 22/11/2023
 
