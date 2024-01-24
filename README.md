@@ -29,7 +29,7 @@
 <!-- - :student: I’m currently learning Android app development using `Kotlin` and `Firebase`...<br> 
 - :revolving_hearts: I’m looking to collaborate on software development using `Kotlin`.... <br>-->
 
-- :school: I have successfully obtained a B.Sc degree in CSE from [Varendra University, Bangladesh](https://vu.edu.bd/).
+- :school: I have successfully obtained a `B.Sc` degree in `CSE` from [Varendra University, Bangladesh](https://vu.edu.bd/).
 - :eyes: I’m interested in programming...<br>
 - :computer: I am a competitive programmer at `LeetCode`, `CodeForces`,  `HackerRank`, `Codechef`, `beecrowd`.<br>
 - :student: I’m currently learning Backend development using `GO Lang`...
