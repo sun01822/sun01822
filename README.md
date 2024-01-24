@@ -10,7 +10,7 @@
 	  <img src="https://cp-logo.vercel.app/leetcode/sun01822?label=Github%20followers&style=plastic&color=32CD32" alt="Leet code rating" />
  </a>
 <img alt="Age" src="https://img.shields.io/badge/Age-23-%23FF0000.svg?style=plastic&color=32CD32">
-<img alt="Country" src="https://img.shields.io/badge/Lives-Bangladesh-%23FF0000.svg?style=plastic&color=3EA055" />
+<img alt="Country" src="https://img.shields.io/badge/Lives in-Bangladesh-%23FF0000.svg?style=plastic&color=3EA055" />
 <br>
 </p>
 
