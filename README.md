@@ -39,12 +39,12 @@
 <br>
 <br>
 <h2><b>&#128200; Competitive Programming</b></h2>
-
-![](https://raw.githubusercontent.com/MDShariarHossainSun/Codeforces-Stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/MDShariarHossainSun/Codeforces-Stats/main/output/light_card.svg)
-
-![](https://raw.githubusercontent.com/MDShariarHossainSun/Codeforces-Stats/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/MDShariarHossainSun/Codeforces-Stats/main/output/rating.svg)
+<a href="https://leetcode.com/sun01822/">
+    <img src="https://cp-logo.vercel.app/leetcode/sun01822" alt="Leet code rating" />
+  </a>
+  <a href="https://codeforces.com/profile/ShariarHossain">
+    <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="CodeForces rating" />
+  </a>
 <br><br><br>
 <img height="273em" src="https://leetcard.jacoblin.cool/sun01822?theme=light&font=Karma&ext=contest" />
 
