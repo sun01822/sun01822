@@ -45,8 +45,9 @@
   <a href="https://codeforces.com/profile/ShariarHossain">
     <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="CodeForces rating" />
   </a>
-<br><br><br>
+<br><br>
 <img height="273em" src="https://leetcard.jacoblin.cool/sun01822?theme=light&font=Karma&ext=contest" />
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=ShariarHossain" />
 
 <!---
 MDShariarHossainSun/MDShariarHossainSun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
