@@ -47,7 +47,7 @@
   </a>
 <br><br>
 <p float="left">
-  <img height="250em" src="https://leetcard.jacoblin.cool/sun01822?theme=light&font=Karma&ext=contest" />
+  <img height="240em" src="https://leetcard.jacoblin.cool/sun01822?theme=light&font=Karma&ext=contest" />
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ShariarHossain" />
 </p>
 
