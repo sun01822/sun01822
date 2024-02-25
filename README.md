@@ -238,6 +238,14 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 
+## 👨‍💻Learning Now
+<br>
+<div>
+	<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65d5a01eea2ab2b38a0d95f6?variant=light" alt="roadmap.sh"/></a>
+</div>
+
+<br>
+<br>
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
@@ -256,5 +264,5 @@ You can click the Preview link to take a look at your changes.
 <hr>
 Credits: <a href="https://github.com/sun01822">MDShariarHossainSun</a>
 
-Date: 15/12/2023
+Date: 25/02/2024
 
