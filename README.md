@@ -143,6 +143,11 @@ You can click the Preview link to take a look at your changes.
       alt="PostgreSQL"/> 
   </a>
   &emsp;
+<a href="https://cloud.google.com/bigquery?hl=en" target="_blank"> 
+    <img src="https://img.shields.io/badge/BigQuery-1d85f5.svg?style=plastic&logo=bigqueryl&logoColor=white"
+      alt="PostgreSQL"/> 
+  </a>
+  &emsp;
 </p>
 
 ### 👉 Software 
@@ -166,16 +171,12 @@ You can click the Preview link to take a look at your changes.
   &emsp;
     <a href="#"><img alt="Xampp" src="https://img.shields.io/badge/Xampp-FE7A16?&style=plastic&logo=xampp&logoColor=white"></a>
   &emsp;
+	 <a href="#"><img alt="GoLand" src="https://img.shields.io/badge/GoLand-9d13ed?&style=plastic&logo=goland&logoColor=white"></a>
+  &emsp;
 </p>
 
 ### 👉 Tools
 <p>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-E5E4E2?style=plastic&logo=stack-overflow&logoColor=orange"></a>
-  &emsp;
-    <a href="#"><img alt="Medium" src="https://img.shields.io/badge/-Medium-0000cd?style=plastic&logo=medium&logoColor=orange"></a>
-  &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
     <a href="https://github.com/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github"></a> 
   &emsp;
@@ -183,9 +184,22 @@ You can click the Preview link to take a look at your changes.
     <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white"/>
   </a>
 	&emsp;
-    <a href="#"><img alt="Windows" src="http://img.shields.io/badge/-Windows-0078D6?style=plastic&logo=windows&logoColor=ffffff"></a>
+	<a href="https://www.postman.com/" target="_blank"><img alt="Postman" src="https://img.shields.io/badge/postman-ef5b25.svg?style=plastic&logo=postman&logoColor=white"></a>
+	&emsp;
+    <a href="#"><img alt="Windows" src="http://img.shields.io/badge/-Windows-0078D6?style=plastic&logo=Windows&logoColor=ffffff"></a>
   &emsp;
 	<a href="https://www.figma.com" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white"></a>
+</p>
+
+### 👉 Frequently Visiting Websites
+<p>
+  &emsp;
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-E5E4E2?style=plastic&logo=stack-overflow&logoColor=orange"></a>
+  &emsp;
+    <a href="#"><img alt="Medium" src="https://img.shields.io/badge/-Medium-0000cd?style=plastic&logo=medium&logoColor=orange"></a>
+  &emsp;
+    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
+  &emsp; 
 </p>
 
 ### 👉 Competitive Programming & Problem Solving
@@ -264,5 +278,5 @@ You can click the Preview link to take a look at your changes.
 <hr>
 Credits: <a href="https://github.com/sun01822">MDShariarHossainSun</a>
 
-Date: 25/02/2024
+Last Updated Date: 10/08/2024
 
