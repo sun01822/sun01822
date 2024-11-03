@@ -6,9 +6,9 @@
 <a href="https://github.com/MDShariarHossainSun" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sun01822?label=Github%20followers&style=plastic&color=32CD32">
 </a> 
-	<a href="https://leetcode.com/sun01822/">
+<!-- 	<a href="https://leetcode.com/sun01822/">
 	  <img src="https://cp-logo.vercel.app/leetcode/sun01822?label=Github%20followers&style=plastic&color=32CD32" alt="Leet code rating" />
- </a>
+ </a> -->
 <img alt="Age" src="https://img.shields.io/badge/Age-23-%23FF0000.svg?style=plastic&color=32CD32">
 <img alt="Country" src="https://img.shields.io/badge/Lives in-Bangladesh-%23FF0000.svg?style=plastic&color=3EA055" />
 <br>
@@ -39,9 +39,9 @@
 <br>
 <br>
 <h2><b>&#128200; Competitive Programming</b></h2>
-<a href="https://leetcode.com/sun01822/">
+<!-- <a href="https://leetcode.com/sun01822/">
     <img src="https://cp-logo.vercel.app/leetcode/sun01822" alt="Leet code rating" />
-  </a>
+  </a> -->
   <a href="https://codeforces.com/profile/ShariarHossain">
     <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="CodeForces rating" />
   </a>
