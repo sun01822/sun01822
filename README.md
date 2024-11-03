@@ -50,6 +50,8 @@
   <img height="240em" src="https://leetcard.jacoblin.cool/sun01822?theme=light&font=Karma&ext=contest" />
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ShariarHossain" />
 </p>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=sun01822&animated=true" alt="LeetCode Badges"/>
+
 
 
 <!---
@@ -89,7 +91,7 @@ You can click the Preview link to take a look at your changes.
    </a>
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=openjdk&logoColor=white">
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
@@ -281,5 +283,5 @@ You can click the Preview link to take a look at your changes.
 <hr>
 Credits: <a href="https://github.com/sun01822">MDShariarHossainSun</a>
 
-Last Updated Date: 02/11/2024
+Last Updated Date: 03/11/2024
 
