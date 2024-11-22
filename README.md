@@ -16,7 +16,7 @@
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=29E92D&center=true&vCenter=true&width=1200&height=100&lines=I+am+MD.+Shariar+Hossain+Sun;Computer+Science+Student;C+Programming+%7C+CPP+%7C+Java+%7C+GOLang+%7C+Kotlin;DS%20|%20Algorithms%20|%20OOP%20;Always+Learning+New+Programming+Languages" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=29E92D&center=true&vCenter=true&width=1200&height=100&lines=I+am+MD.+Shariar+Hossain+Sun;Software+Engineer+L-I;C+Programming+%7C+CPP+%7C+Java+%7C+GOLang+%7C+Kotlin;DS%20|%20Algorithms%20|%20OOP%20;Always+Learning+New+Programming+Languages" alt="Typing SVG" /></a>
 
 <br> 
 <br>
@@ -283,5 +283,5 @@ You can click the Preview link to take a look at your changes.
 <hr>
 Credits: <a href="https://github.com/sun01822">MDShariarHossainSun</a>
 
-Last Updated Date: 03/11/2024
+Last Updated Date: 22/11/2024
 
