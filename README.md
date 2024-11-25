@@ -257,10 +257,7 @@ You can click the Preview link to take a look at your changes.
 ## 👨‍💻Learning Now
 <br>
 <div>
-	<a href="https://roadmap.sh">
-  		<img src="https://api.roadmap.sh/v1-badge/wide/65d5a01eea2ab2b38a0d95f6?variant=light&refresh=1" alt="roadmap.sh"/>
-	</a>
-
+	<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/65d5a01eea2ab2b38a0d95f6?variant=light&roadmaps=backend%2Cgolang" alt="roadmap.sh"/></a>
 </div>
 
 <br>
@@ -283,5 +280,5 @@ You can click the Preview link to take a look at your changes.
 <hr>
 Credits: <a href="https://github.com/sun01822">MDShariarHossainSun</a>
 
-Last Updated Date: 22/11/2024
+Last Updated Date: 25/11/2024
 
