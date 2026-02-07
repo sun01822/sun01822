@@ -235,9 +235,6 @@ You can click the Preview link to take a look at your changes.
 ##  🏆Github Profile Trophies
 <br>
 <img src="https://github-trophies.vercel.app/?username=sun01822" />
-</picture>
-</p>
-<br>
 <br>
 
 ## 👨‍💻Learning Now
