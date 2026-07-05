@@ -3,9 +3,9 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm MD. Shariar Hossain Sun</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MDShariarHossainSun&label=Profile%20views&color=32CD32&style=plastic" alt="MDShariarHossainSun"/>
-<a href="https://github.com/MDShariarHossainSun" target="_blank">
+<!-- <a href="https://github.com/MDShariarHossainSun" target="_blank"> -->
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sun01822?label=Github%20followers&style=plastic&color=32CD32">
-</a> 
+<!-- </a>  -->
 <!-- 	<a href="https://leetcode.com/sun01822/">
 	  <img src="https://cp-logo.vercel.app/leetcode/sun01822?label=Github%20followers&style=plastic&color=32CD32" alt="Leet code rating" />
  </a> -->
