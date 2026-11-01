@@ -51,8 +51,7 @@
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ShariarHossain" />
 </p>
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=sun01822&animated=true" alt="LeetCode Badges"/>
-<img src="https://hacker-rank-stats-card.vercel.app/generate-card?username=ShariarHossain" alt="HackerRank Card"/>
-
+<img src="https://hacker-rank-stats-card.vercel.app/generate-card?username=shariarhossain&theme=light" />
 <!---
 MDShariarHossainSun/MDShariarHossainSun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
