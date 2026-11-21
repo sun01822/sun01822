@@ -72,14 +72,7 @@
 </p>
 
 <p align="center">
-  <img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
-  <img alt="Bigtable" src="https://img.shields.io/badge/Bigtable-4285F4?style=for-the-badge&logo=googlebigtable&logoColor=white"/>
-  <img alt="Echo" src="https://img.shields.io/badge/Echo-00AFD1?style=for-the-badge&logo=go&logoColor=white"/>
-  <img alt="Gin" src="https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white"/>
-  <img alt="GORM" src="https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img alt="Asynq" src="https://img.shields.io/badge/Asynq-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+  <img src="images/icons/bigquery.svg" alt="BigQuery" title="BigQuery"/><img src="images/icons/bigtable.svg" alt="Bigtable" title="Bigtable"/><img src="images/icons/echo.svg" alt="Echo" title="Echo"/><img src="images/icons/gin.svg" alt="Gin" title="Gin"/><img src="images/icons/gorm.svg" alt="GORM" title="GORM"/><img src="images/icons/asynq.svg" alt="Asynq" title="Asynq"/><img src="images/icons/jwt.svg" alt="JWT" title="JWT"/><img src="images/icons/swagger.svg" alt="Swagger" title="Swagger"/>
 </p>
 
 <details>
@@ -92,13 +85,9 @@
   <summary><b>🧰 IDEs, editors &amp; OS</b></summary>
   <br/>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,sublime,atom,windows,linux" alt="IDEs and OS"/>
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,sublime,atom,figma,windows,linux" alt="IDEs, editors and OS"/>
     <br/>
-    <img alt="GoLand" src="https://img.shields.io/badge/GoLand-9D13ED?style=for-the-badge&logo=goland&logoColor=white"/>
-    <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
-    <img alt="Code::Blocks" src="https://img.shields.io/badge/Code::Blocks-41AD48?style=for-the-badge&logo=codeblocks&logoColor=white"/>
-    <img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
-    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+    <img src="images/icons/goland.svg" alt="GoLand" title="GoLand"/><img src="images/icons/netbeans.svg" alt="NetBeans IDE" title="NetBeans IDE"/><img src="images/icons/codeblocks.svg" alt="Code::Blocks" title="Code::Blocks"/><img src="images/icons/xampp.svg" alt="XAMPP" title="XAMPP"/>
   </p>
 </details>
 
@@ -106,9 +95,7 @@
   <summary><b>🌐 Frequently visited websites</b></summary>
   <br/>
   <p align="center">
-    <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
-    <a href="https://medium.com/"><img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-    <a href="https://www.geeksforgeeks.org/"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+    <a href="https://stackoverflow.com/"><img src="images/icons/stack-overflow.svg" alt="Stack Overflow" title="Stack Overflow"/></a><a href="https://medium.com/"><img src="images/icons/medium.svg" alt="Medium" title="Medium"/></a><a href="https://www.geeksforgeeks.org/"><img src="images/icons/geeksforgeeks.svg" alt="GeeksforGeeks" title="GeeksforGeeks"/></a>
   </p>
 </details>
 
@@ -132,14 +119,7 @@
   <summary><b>🧩 Find me on judges</b></summary>
   <br/>
   <p align="center">
-    <a href="https://leetcode.com/sun01822/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
-    <a href="https://codeforces.com/profile/ShariarHossain"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-    <a href="https://www.hackerrank.com/ShariarHossain"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-    <a href="https://www.codechef.com/users/sun01822"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-    <a href="https://vjudge.net/user/Sun01822"><img alt="Virtual Judge" src="https://img.shields.io/badge/Virtual%20Judge-333333?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAA5FBMVEXZ2dkAAACJiYnv7%2B%2B%2Fv7%2B%2Bvr48PDxQTk9gYGDc3Nzs9vuYmZr%2F%2FwATGA%2FCwsKSkpKBgoDo6Ojt8QHJycnPz8%2Bhn6SHiAADBQCtra03OACiogC4uLjm8vnX4eHMx8XQ2drp8%2FHDx8Jzc3Onp6QAABUNDBt6eX8oJzZtbgBYWF9ITEuVlwDc3Qe9w7l9eQDi5AVWVgAAAAwYGBfL0AkiIgdGRgo0MgAlJSPHxAsYGQCzswsiHgppbGQ6PgBPTwcyMDYIBCAbGyEsLARrawb49AlYWkJrbHegoAkcGypYWFsuMjEdHRnm1jBiAAABx0lEQVQ4jX2Sa3uaMBSAEwwIJQZLFIm4bkrrsDC0UltLC73Aunb9%2F%2F9nCVINPqzvl9xeznkO54DJyVdMJuAb%2BYKzwQn4riiW2Y7SV7wfAChT47Qdd6YpQgAA7QLSms8Elq4pHS4YwFMFxPOHAp%2Bg6qxKAr9B1NXPoeBijig%2Fq2gvGCICdX9CpyKAC3PABVUSEKKXMIzwjiiA81%2FNCIhYMMZ7lqurPm0IVLkIy4OA7dXaJZKA%2FF5sN0hWXfVQpkFMyFhVwfWmWmB%2Bc%2BtLgjdjyfYOjkYwtWOxsDK5f6AHwT0PcZSJLyMcVgEwZo9AEp7GGKcFy5wSL8Mgy7dc0GTheYyPYdpATtEiPEqC%2BhrYGMfb%2Bq3asK4kEOuO3zkvy%2Bp93Etwmd4OpTKRuy5KXIb3CcblGHLZjhee9CdVovMCcRmwoiiuRYJ0NCTNbuqZ6IWzyfNUpCnm9Kjd3m%2BHv5S8Dfx5G2sukbrJJwoR7%2FXq5s%2BSC1GQvc296dE8IJWQ4Rtkm03%2BAp9dShBqRNgN7Zmpvy%2FeH8wpqc574dRAnwM%2FENSzT6lZC77Zb0WZXVZC%2F%2B9Hr5WPNdQsLvh697%2FoXOh0DFCz34DDTecfRkVBzIqJv9IAAAAASUVORK5CYII%3D"/></a>
-    <a href="https://www.beecrowd.com.br/judge/en/profile/457135"><img alt="beecrowd" src="https://img.shields.io/badge/beecrowd-F2BB13?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAclBMVEX%2F%2F%2F9SAHX18%2FdRAHTHuNBVAHfFtc5ZAHnr5e76%2Bfu4pMR9T5Xg2OX9%2FP3x7fPYzd5iGoDRxNhfEH55SJHc0uGbfKxzPo2gg7CQbKOwmb1mJIO%2Bq8hCAGqKY55vNoqjh7JoJ4SWdaiBVZfTx9qpj7eGXZw0g3lwAAABM0lEQVQ4jdVSa5OCMAxMW0PK01KBIj5O4Pz%2Ff%2FESdLTinB9v5sJMabM7SXZbgD%2BM0gJU1QdCdtRw8h8IKbbQmOQD43yGSn39jgfazx0lm1ts3%2FAtEiINnoiUUmiKNeHitnU2Tz7341zXCe7WGni8Bizm4Bclrdq84Bo70BZyYyHBIJrIvRB67tlArVred8zikriP8Mb0YFNwmPKhUJPkhmNsgdJQwF5lt3Jq5tVGQ0i5guc43weiC6%2Fl0D4IO7RMSB5dr6YR6%2FunSeoKVsOA%2Bu5ZLr%2FYqhN3FRH9fSKRcTjOT0KlLmLDtBh8WIwoyZdRiW%2FMxEjTCUIiNqys9JwtlmzAg4gUbhwJPxfu7JxVCzK9XWdHYzu2O%2BfdNYQwUr%2FCoTBK3gHxJxuj1wRIdRzlG%2F6v4we7aA5Gypr%2BLQAAAABJRU5ErkJggg%3D%3D"/></a>
-    <a href="https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3"><img alt="UVa Online Judge" src="https://img.shields.io/badge/UVa-FF69B4?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAF2ElEQVRYhe2XXWwcVxXHf%2FfOh%2Bdjd7ONs7EbavcjcaxgJw5NaEqcD0pVguhDoVJbCqhAJSQeAgRKxRtF8EaFkKpKFOUBBUWoEqW8VC2iaYNAaRTiuIlbQtvEiWj8Edu1vdld787O7tzLw8yuvYldhQeaPnCk0YzOzL3nfz7%2B556BGywC4ALf0UXCj9x4CgsToEhI4QYAUGjkR271Kvk%2FgI8HAB2T4bpFNHALfdULfa0OkGgk1%2BoFsrGTQhGhqaNRV32gm3qBTJ5raOqgxSIYAB07oqkDUVOtEKiGk0sAaqFjGpbbBHO%2BiZICr6LwywKhNVpEVGxBKWUj6xovUIS%2BQyAVsqbwixHuIl4UULI1QdrGjQReQWFEOgGuWkA2VpgAmXu3sPFnD6IcwQeHjvP%2B08%2FjC5eaDrB3bGHXs4%2BjLpR444e%2FYvP%2Br5C5bwPM1nnze89SGxnDwgagRJlbf%2FAoHY%2FdTem1i7zzxHP4ESuK0CIGYHZkaN%2FWFW%2ByIUcNhdQQoTHafdZsvgXVEVKOAgqzM6zvvweA3D0DTI6cx8JGEVG%2ByaP7q3tIb1rL9ItvUg0XWEWGSCi0Xgz90rTFRRgtyVctbOYNQKs4dGEY4GqTqVdOQDXeLDfYT0WaSDQhVdKbu%2FE2roGqZvLlEzgYzFJkTtYopGV8OZp5ytRRCJIItMrKzHRMm%2FK%2Fxsi%2FNUZ2exftO3qwbu2gfnGOMhG3D27GaJPMDY0xM3IO2zXpefIhOj4%2FgJvOoFVErRIwc%2Bwd3n36BVLTteUArCyGaRBVrjD5%2Bhmy27twu9O0b1tP8eIkNcsmt2cLAFNHhinXAwYPPUXXw3cCUHlvBqPNIbN1He2fuQNDSMZ%2B9Nv%2FvhGlMLl85BSNol67d4A8C6R61rHmrh50HUZfPk53Xx9dO%2FthLuLv3%2F41L%2FR%2Bg9%2F1fI2zfzgGQPcXP020NrtyBJZrHEoKHBzmT42Sf%2Bsy2YFOcjs3ETge2Ts3YK62KI5MEbw9hlcWvLR7P5W1KYIrRbr23kXerlOpBvFeWY9Kuu1aAA2%2BquW6owIDE2OuwPTRM2QHOsl%2B8hO0bb0Nf7AXgKm%2FnsGeL1JGYHXeTN%2BBL9M52I%2B7LtVSXjErVKwShtFiJ0JjIFBooqSjCSFBgkDgIhl%2FfRhdBxzofnQvud29oODSkVNoqrg7%2B%2FjcH5%2Fi9kfuRl8p88bjz%2FCne3%2FMqcOvtdgyAeoz%2BTinErJ9t1FwDKLgA0rU2LL1DgCqpZBqoYIPuLQx%2FY%2F3KI%2FO4%2FfexKce24eTcaien6dw4l00Bt0PfxZrnYcK4aXv%2FhJ5dJg8AZ37dsQOJceGCTB7epRwbAG726d910a2H%2Fw%2BF14dpnP9zfTvfwCA%2FOmL1C%2FPY%2BCiBFhT88wc%2Byd%2B7y68rAfA%2BLG3EdN5DCyEFadQSFh1S44Zw6Hrvt1s%2B%2BYXklRrlE5SoMZmOfnzwxCAMGHT1%2Fdw%2F6ED7PzJI5ir26iOlzj7zItkVFIbWmAjeP8vQy3h%2FPerJ7ERWEjGXxmCqkaYsO%2FgE3xp5CB7n3uS%2FPg0AG7Wx1%2BVxgA4ILb%2FdGL4LBPDFzBNC1VVhFNFKhN5Jv58mqEDv0GfPE8KLznNBAaS4uwVfDfLwqUpCkfPMXH4KE5R4WFTOHeJmfOTuLnVREGNeqnG0C9%2Bz6Xn%2F0bay1AemSA6PhqX%2Bmm%2BpQtUKRMQAobvgimhrogWKjhIXJw4dCIOrdSCGnXKBETEtPVxMZfMCgVdQVkWRsqhvlDFCENsLCrUMIAc6bgGNCCEwNcePqAWIkRS%2FQZuHHah4%2FNfx9WjEZhIsrjL01YLMnjomkLPhwhkcy8vYb%2BFjJ9kkteGSBZpqRLv0CyOKnoRkMZoGWJaRGjAQCYnYeMr1TQlrm8kU4h4kdDNFCxOPysYb2K4tqM21gqd%2FBeIZdruogdL7kkKBDLGnpC5CYqkRhok1x%2FiWPLuw09D3eptU33VeLXUgdjj6xtyNR%2BXsfxGiSBJgY%2BNWqkO%2FofiY%2FMfwUJnc2BkfzAAAAAASUVORK5CYII%3D"/></a>
-    <a href="https://toph.co/u/ShariarHossain"><img alt="Toph" src="https://img.shields.io/badge/Toph-00599C?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEqklEQVRYhc3XX4xUZxkG8N%2BZmV22wLIsO912AaEMawm0WNiWWP9UWkNigmk3FpWERi8wWi%2BMiYlJ45UXmmiMxgsvTCSNiUa9MaaaKlpt617QlpKWamxtgl1oANFlYdndsruzc875vDgzm8O6y8ygTftcnZn5vu953uf9853hHUb0dhxa2b238VhCD6YxP3py5O0RkCNchUHcix3YgApO4Ls4BXkhNyygThphAPfhA7gTO1FGYdGWv%2BA7%2BKWcG20JyEV6K%2Fbhfrwft6OzhSPewo%2FxTYyNnhxRaoN4hczah%2FCALNqOZbYEzOEyLuBNjNafp9HVWLisA7loe%2FAgHsZerFu0NMElnMbf8Hqd%2BBzO4GJGGsUEiwvxvwTkiPvwKRysR95QHeMsnsdLOBcltb%2BvuHT2TP%2F5s2%2FNEo4vF9USuEZAnXw1PonDdeIOzONV%2FB4v1yP9CP665eTI8acfn9kvjVcJ4ShhWmklh1spiZyAOvkOfAP76xH%2FC0%2FgKTyHMVl%2BB%2FAMykL627F9X918deuHdoZC8Rh%2BhV%2FjCni0t7mAgW17JGna2dXVdaRYLH42iqJR%2FKJO%2FgriRu7qQj%2BIo1gDaeeqMHXHx%2BYn9hyKQ6FUxQgew6lmAkowuLWiFse7Biu37d8ztEvfut4jjxz4%2BLeHH%2FmC3%2Fz8yFL77kR340NxbioqTV8shKgQy1L2vsbZzVCCgweGXZ6YOPvphx86tq63dziEcOjfl6ee%2BNEPvvf6MgK2yaUvRJH5ciVR7CBNIlmNvNmygC997pB%2Fjk9eKETRV5IkWSPr88OExy6MT4aBcg8W7C%2FIBtECQmlFmF%2B7Mcl9dRwzrQhYGJfryz1CCKfxNbyBz2DPEnt6ZQ7U2VO1nvVptX8wEVKo4jU0LcBrBCxS%2F33cjE%2FAhfHJ%2FO9bZRfMAmY37IyTleuCEAqyifdSU%2BalBDSsxk%2FxR9kQeu%2BiPUMyF%2BonlFT7b08UCmR18Szh3A0JyImYkl0at8jGb35Cbl9YHFK1noF07tbtDfvn8SJRS%2FYvKSCHo7J07EPHwQPDZBfSNfbPbBqqxd39ad3%2BU3ihJeYWBEzjz%2FgwKt2rV8MmWY%2BDUOo0N3BH3v4%2F4Pz%2FLCBXC3%2BSjeShUqlI1hXrM%2FbUfF8lmRvYEQtphKs4hpbtX1ZADq%2FhH9g8cEs%2F3CM34WY231NLblrbqP4TspS1hWYCruBUFEXbf%2Fj4T1ZqFGAIkpt6wuzGu%2BL6uiC7KSfbfctbVkAuDeOFQqHSu7ZnKISwq8E3%2B57dterNg4mQFmR5z26rR9f%2BfwTkcB59tVptWNaWFEpmNt0dh1InWci%2F05h%2BbaKpgIixWq3WnaTpfSGIhFS1XElmN9wV13t%2FRja00naKr4GmV2ZHR8fc6TdGy5OT0%2BUoyiRd3XJvLVnVF4SkKHtRea5t5lYEhBAgOvb8i6XLExOlCPHqcpjddHea1Z0ET2Iq%2B9g%2BrpuCanVeVIiefeHEy18PIZvvaVf3k9XybSNCWpS16NPgi%2B3bTxMHtmzsV9m9dwzfiqLoGXy%2Bc3z0Z9b0vmrqymFcUiqdEcfXO%2Ba6aLlpc39OkultH40vPvDlAoqo3UjxvWvwHx5Ll%2FtvOLnoAAAAAElFTkSuQmCC"/></a>
+    <a href="https://leetcode.com/sun01822/"><img src="images/icons/leetcode.svg" alt="LeetCode" title="LeetCode"/></a><a href="https://codeforces.com/profile/ShariarHossain"><img src="images/icons/codeforces.svg" alt="Codeforces" title="Codeforces"/></a><a href="https://www.hackerrank.com/ShariarHossain"><img src="images/icons/hackerrank.svg" alt="HackerRank" title="HackerRank"/></a><a href="https://www.codechef.com/users/sun01822"><img src="images/icons/codechef.svg" alt="CodeChef" title="CodeChef"/></a><a href="https://vjudge.net/user/Sun01822"><img src="images/icons/vjudge.svg" alt="Virtual Judge" title="Virtual Judge"/></a><a href="https://www.beecrowd.com.br/judge/en/profile/457135"><img src="images/icons/beecrowd.svg" alt="beecrowd" title="beecrowd"/></a><a href="https://onlinejudge.org/index.php?option=com_comprofiler&amp;Itemid=3"><img src="images/icons/uva.svg" alt="UVa Online Judge" title="UVa Online Judge"/></a><a href="https://toph.co/u/ShariarHossain"><img src="images/icons/toph.svg" alt="Toph" title="Toph"/></a>
   </p>
 </details>
 
@@ -162,7 +142,11 @@
 ## 📚 Learning Now
 
 <p align="center">
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/65d5a01eea2ab2b38a0d95f6?variant=light&roadmaps=backend%2Cgolang" alt="roadmap.sh"/></a>
+  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" title="Google Cloud"/>
+  <br/>
+  ☁️ Currently taking part in the <b>GCP Associate Cloud Engineer Exam Cohort 3</b>
+  <br/><br/>
+  <img alt="Status: in progress" src="https://img.shields.io/badge/Status-In%20Progress-FBBC04?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
 
 ## 🤝 Let's Connect
