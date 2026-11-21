@@ -1,270 +1,165 @@
-<!--![2000_600px](https://github.com/sun01822/sun01822/assets/75157104/3613ea4b-de16-4ea5-8d25-8fc2a65be3f0)-->
-<img src="https://img-c.udemycdn.com/course/750x422/2666276_8380.jpg" alt="GO Lang Challenge" style="width: 100%;"/>
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm MD. Shariar Hossain Sun</h1>
+<img src="https://img-c.udemycdn.com/course/750x422/2666276_8380.jpg" alt="Go Lang banner" width="100%"/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MDShariarHossainSun&label=Profile%20views&color=32CD32&style=plastic" alt="MDShariarHossainSun"/>
-<!-- <a href="https://github.com/MDShariarHossainSun" target="_blank"> -->
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sun01822?label=Github%20followers&style=plastic&color=32CD32">
-<!-- </a>  -->
-<!-- 	<a href="https://leetcode.com/sun01822/">
-	  <img src="https://cp-logo.vercel.app/leetcode/sun01822?label=Github%20followers&style=plastic&color=32CD32" alt="Leet code rating" />
- </a> -->
-<img alt="Age" src="https://img.shields.io/badge/Age-27-%23FF0000.svg?style=plastic&color=32CD32">
-<img alt="Country" src="https://img.shields.io/badge/Lives in-Bangladesh-%23FF0000.svg?style=plastic&color=3EA055" />
-<br>
-</p>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> Hi, I'm MD. Shariar Hossain Sun</h1>
+<h3 align="center">Software Engineer · Back-end (Go) · 2+ years building scalable server-side systems</h3>
 
-<br>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=29E92D&center=true&vCenter=true&width=1200&height=100&lines=I+am+MD.+Shariar+Hossain+Sun;Software+Engineer+L-I;C+Programming+%7C+CPP+%7C+Java+%7C+GOLang+%7C+Kotlin;DS%20|%20Algorithms%20|%20OOP%20;Always+Learning+New+Programming+Languages" alt="Typing SVG" /></a>
-
-<br> 
-<br>
-
-<h2><picture> <img src = "https://github.com/MDShariarHossainSun/MDShariarHossainSun/blob/main/images/me.gif?raw=true" width = 50px>  </picture> About me</h2>
-<!--<picture> <img align="right" src="https://github.com/MDShariarHossainSun/MDShariarHossainSun/blob/main/images/computer.gif?raw=true" width = 250px></picture>-->
-<picture> <img align="right" src="https://github.com/MDShariarHossainSun/MDShariarHossainSun/blob/main/images/go.gif?raw=true" width = 200px></picture>
-<br><br>
-
-<!-- - :student: I’m currently learning Android app development using `Kotlin` and `Firebase`...<br> 
-- :revolving_hearts: I’m looking to collaborate on software development using `Kotlin`.... <br>-->
-
-- :school: I have successfully obtained a `B.Sc` degree in `CSE` from [Varendra University, Bangladesh](https://vu.edu.bd/).
-- :eyes: I’m interested in programming...<br>
-- :computer: I am a competitive programmer at `LeetCode`, `CodeForces`,  `HackerRank`, `Codechef`, `beecrowd`.<br>
-- :student: I’m currently learning Backend development using `GO Lang`...
-- :revolving_hearts: I’m looking to collaborate on software development using `GO Lang`.... <br>
-
-
-<br>
-<br>
-<h2><b>&#128200; Competitive Programming</b></h2>
-<!-- <a href="https://leetcode.com/sun01822/">
-    <img src="https://cp-logo.vercel.app/leetcode/sun01822" alt="Leet code rating" />
-  </a> -->
-  <a href="https://codeforces.com/profile/ShariarHossain">
-    <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="CodeForces rating" />
-  </a>
-<br><br>
-<p float="left">
-  <img height="240em" src="https://leetcard.jacoblin.cool/sun01822?theme=light&font=Karma&ext=contest" />
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ShariarHossain" />
-</p>
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=sun01822&animated=true" alt="LeetCode Badges"/>
-<img src="https://hacker-rank-stats-card.vercel.app/generate-card?username=shariarhossain&theme=light" />
-<!---
-MDShariarHossainSun/MDShariarHossainSun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<br>
-
-<h2>👀 My github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px></h2> 
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=sun01822&show_icons=true)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=sun01822)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sun01822&layout=compact)
-
-<br>
-
-## 🛠️ My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
-
-### 👉 Programming languages
-
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://kotlinlang.org/docs/home.html">
-    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%2370ED.svg?style=plastic&logo=kotlin&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=openjdk&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2300599C.svg?style=plastic&logo=python&logoColor=yellow">
-  </a>
-  &emsp;
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://go.dev/">
-    <img alt="GO" src="https://img.shields.io/badge/GO-%23007d9c.svg?style=plastic&logo=go&logoColor=white"/>
-  </a>	
-</p>
-
-### 👉 Frontend Development
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white"/>
-  </a>
-  &emsp;
-    <a href="https://tailwindcss.com" target="_blank"> 
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=plastic?logo=tailwind-css&logoColor=white"/>
-  </a>
-</p>
-
-### 👉 Databases
-<p align="left">
-  &emsp;
-	<a href="https://www.firebase.com/"><img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFA500?style=plastic&logo=firebase&logoColor=white"></a></a>
-	&emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-FF7F50?style=plastic&logo=mysql&logoColor=white"></a>
-&emsp;
- <a href="https://www.mongodb.com/" target="_blank"> 
-   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white">
-  </a> 
-  &emsp;
-    <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019"><img alt="MS SQL Server" src="https://img.shields.io/badge/-Sql%20Server-CC2927?style=plastic&logo=microsoft-sql-server&logoColor=ffffff"></a>
-  &emsp;
-  <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=plastic&logo=postgresql&logoColor=white"
-      alt="PostgreSQL"/> 
-  </a>
-  &emsp;
-<a href="https://cloud.google.com/bigquery?hl=en" target="_blank"> 
-    <img src="https://img.shields.io/badge/BigQuery-1d85f5.svg?style=plastic&logo=bigqueryl&logoColor=white"
-      alt="PostgreSQL"/> 
-  </a>
-  &emsp;
-</p>
-
-### 👉 Software 
-<p>
- &emsp;
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android Studio-A4C639.svg?style=plastic&logo=androidstudio&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Code Blocks" src="https://img.shields.io/badge/CodeBlocks-%23FF0000.svg?style=plastic&logo=codeblocks&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-  <a href="https://www.sublimetext.com/" target="_blank"> 
-    <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-%23575757.svg?style=plastic&logo=sublime-text&logoColor=important"/>
-  </a>
-  &emsp;
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
-  &emsp;
-   <a href="https://netbeans.apache.org/" target="_blank"> 
-    <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?style=plastic&logo=apache-netbeans-ide&logoColor=white"/>
-  </a>
-  &emsp;
-    <a href="#"><img alt="Xampp" src="https://img.shields.io/badge/Xampp-FE7A16?&style=plastic&logo=xampp&logoColor=white"></a>
-  &emsp;
-	 <a href="#"><img alt="GoLand" src="https://img.shields.io/badge/GoLand-9d13ed?&style=plastic&logo=goland&logoColor=white"></a>
-  &emsp;
-</p>
-
-### 👉 Tools
-<p>
-  &emsp;
-    <a href="https://github.com/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github"></a> 
-  &emsp;
-<a href="https://www.docker.com/" target="_blank">
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=docker&logoColor=white">
-</a>
-	&emsp;
-	 <a href="https://git-scm.com/" target="_blank"> 
-    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white"/>
-  </a>
-	&emsp;
-	<a href="https://www.postman.com/" target="_blank"><img alt="Postman" src="https://img.shields.io/badge/postman-ef5b25.svg?style=plastic&logo=postman&logoColor=white"></a>
-	&emsp;
-    <a href="#"><img alt="Windows" src="http://img.shields.io/badge/-Windows-0078D6?style=plastic&logo=Windows&logoColor=ffffff"></a>
-  &emsp;
-	<a href="https://www.figma.com" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white"></a>
-</p>
-
-### 👉 Frequently Visiting Websites
-<p>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-E5E4E2?style=plastic&logo=stack-overflow&logoColor=orange"></a>
-  &emsp;
-    <a href="#"><img alt="Medium" src="https://img.shields.io/badge/-Medium-0000cd?style=plastic&logo=medium&logoColor=orange"></a>
-  &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp; 
-</p>
-
-### 👉 Competitive Programming & Problem Solving
-<p>
-&emsp;
- <a href="https://leetcode.com/sun01822/" target="_blank"> 
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=plastic&logo=LeetCode&logoColor=d16c06"/>
-  </a>
-  &emsp;
-    <a href="https://codeforces.com/profile/ShariarHossain"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
-  &emsp;
-    <a href="https://www.hackerrank.com/ShariarHossain"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-  &emsp;
-    <a href="https://www.codechef.com/users/sun01822"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
-  &emsp;
-    <a href="https://vjudge.net/user/Sun01822"><img alt = "Virtual Judge" src="https://img.shields.io/badge/Virtual%20Judge-%23F7DF1E.svg?style=plastic&logo=vjudge&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-4285f4.svg?style=plastic&logo=google&logoColor=white" /></a>
-  &emsp;
-    <a href="https://www.beecrowd.com.br/judge/en/profile/457135"><img alt = "Beecrowd" src="https://img.shields.io/badge/beecrowd-%23F2BB13.svg?&style=plastic&logo=beecrowd&logoColor=white" /></a>
-   &emsp;
-    <a href="https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3"><img alt = "UVA" src="https://img.shields.io/badge/UVa-%20FF69B4.svg?&style=plastic&logo=uva&logoColor=black" /></a>
-   &emsp;
-    <a href="https://toph.co/u/ShariarHossain"><img alt = "Toph" src="https://img.shields.io/badge/toph-%2300599C.svg?&style=plastic&logo=toph&logoColor=white" /></a>
-</p>
-
-<br>
-<br>
-
-
-##  🏆Github Profile Trophies
-<br>
-<img src="https://github-trophies.vercel.app/?username=sun01822" />
-<br>
-
-## 👨‍💻Learning Now
-<br>
-<div>
-	<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/65d5a01eea2ab2b38a0d95f6?variant=light&roadmaps=backend%2Cgolang" alt="roadmap.sh"/></a>
-</div>
-
-<br>
-<br>
-
-## 🙋‍♀️ Let's Connect
 <p align="center">
-  	<a href="#" title="Website"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:mdshariarhossainsun01822@gmail.com" title="Gmail"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/sun01822" title="GitHub"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/md-shariar-hossain-sun-aa77621ab/" title="LinkedIn"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/sun01822/" title="Facebook"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/sun01822/" title="Instagram"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/channel/UCKDcAIXD1RwBoWnNwk6S4bg" title="Youtube"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+  <img src="https://komarev.com/ghpvc/?username=MDShariarHossainSun&label=Profile%20views&color=32CD32&style=plastic" alt="Profile views"/>
+  <a href="https://github.com/sun01822?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/sun01822?label=GitHub%20followers&style=plastic&color=32CD32"/></a>
+  <img alt="Age" src="https://img.shields.io/badge/Age-27-32CD32?style=plastic"/>
+  <img alt="Lives in Bangladesh" src="https://img.shields.io/badge/Lives%20in-Bangladesh-3EA055?style=plastic"/>
+  <img alt="Works at Vivasoft" src="https://img.shields.io/badge/Works%20at-Vivasoft%20Ltd.-007d9c?style=plastic"/>
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=29E92D&center=true&vCenter=true&width=800&height=60&lines=Back-end+Engineer+%40+Vivasoft+Ltd.;Go+%C2%B7+Echo+%C2%B7+Gin+%C2%B7+GCP+%C2%B7+BigQuery;7.5M+PDFs%2Fmonth+in+production;Scalable+%C2%B7+Secure+%C2%B7+Maintainable" alt="Typing SVG"/></a>
+</p>
 
-<br>
-<br>
-<hr>
-Credits: <a href="https://github.com/sun01822">MDShariarHossainSun</a>
+<p align="center">
+  <a href="mailto:mdshariarhossainsun01822@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/md-shariar-hossain-sun/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2BCg%3D%3D"/></a>
+  <a href="https://github.com/sun01822"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/sun01822/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
+</p>
 
-Last Updated Date: 25/11/2024
+---
 
+## <img src="https://github.com/MDShariarHossainSun/MDShariarHossainSun/blob/main/images/me.gif?raw=true" width="40"/> About Me
+
+<img align="right" src="https://github.com/MDShariarHossainSun/MDShariarHossainSun/blob/main/images/go.gif?raw=true" width="200"/>
+
+- 🧑‍💻 **Back-end Engineer** with 2+ years of experience specializing in **Go**.
+- 🏗️ I build scalable, high-performance services: **microservices**, **REST APIs**, **RBAC**, **BigQuery** integration and workflow automation.
+- ☁️ Cloud-native with **GCP** and **Docker**. I care about code and database optimization.
+- 🔐 Focused on delivering **secure, efficient and maintainable** systems while managing multiple projects.
+- 🎓 **B.Sc. in CSE** from [Varendra University, Bangladesh](https://vu.edu.bd/) (2020 – 2024).
+- 🏆 Competitive programmer on `LeetCode`, `Codeforces`, `HackerRank`, `CodeChef` and `beecrowd`.
+- 🤝 Open to collaborating on back-end and **Go** projects.
+
+<br clear="right"/>
+
+## 💼 Experience
+
+**Software Engineer** @ **Vivasoft Ltd.** &nbsp;·&nbsp; _Mar 2024 – Present_
+
+| 📈 Impact | 🔍 Where |
+| :-- | :-- |
+| 📄 **7.5M PDFs** generated in 30 days | Maxis E-Invoice PDF worker |
+| ⚡ **+60% throughput**, **−90% BigQuery calls** | Batch processing in Maxis E-Invoice |
+| 🧾 **36K invoices** cancelled in **2 days** at **90%** success | Under the IRBM 12 RPM rate limit |
+| ⏱️ **500 PDFs in ~3 minutes** | Scheduled generation, batching every 30s |
+| 🗄️ **−25% redundant DB calls** | Query refactor in Wellteam |
+| 🔐 **RBAC, 2FA (TOTP), JWT** | Pi-Access and Financfy |
+
+## 🚀 Featured Projects
+
+| Project | Period | Highlights | Stack |
+| :-- | :-- | :-- | :-- |
+| 🧾 **Maxis E-Invoice** | May 2024 – Present | E-invoicing back-end: PDF worker, UBL 2.1, IRBM submissions, cancellation and credit notes, webhooks, QR codes, CSV reconciliation, TIN validation | `Go` `Echo` `GCP` `BigQuery` `Bigtable` `Redis` `Asynq` `Chromedp` `Docker` |
+| 💰 **Financfy** | Sep 2025 – Present | Database sync, TOTP 2FA, Inventory Dashboard APIs, bulk invoice and sales receipt import | `Go` `Gin` `PostgreSQL` `Redis` |
+| 🧭 **Career Pilot** | Jul 2025 – Aug 2025 | Job portal and resume builder: job listings, alerts, interview scheduling, resume upload | `Go` `Echo` `PostgreSQL` `GORM` `Redis` `Docker` |
+| 🏃 **Wellteam** | Mar 2024 – Feb 2025 | Configurable logging, cron-driven challenges, status tracking, transaction service | `Go` `Echo` `MySQL` `Redis` `EC2` `GORM` |
+| 🛡️ **Pi-Access** | Aug 2024 | RBAC for secure authentication and access control | `Go` `Gin` `Echo` `MySQL` `PostgreSQL` `JWT` |
+| 📝 **[Blog API](https://github.com/sun01822/Blog_API)** | Jan 2023 – Feb 2023 | User management with JWT and pagination, blog CRUD, reactions and comments | `Go` `Echo` `MySQL` `GORM` `JWT` |
+| 📱 **[CodePiece](https://github.com/sun01822/CodePiece)** | Aug 2023 – Feb 2024 | Android learning app: side-by-side syntax (C, C++, Java, Python), quizzes, admin dashboard, offline books | `Kotlin` `Firebase` `Retrofit` |
+
+## 🛠️ Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/>
+
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=go,kotlin,cpp,c,java,py,js,php" alt="Languages"/></a>
+  <br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,redis,firebase,mongodb,gcp,docker,git,github,postman,linux" alt="Databases, cloud and tools"/></a>
+</p>
+
+<p align="center">
+  <img src="images/icons/bigquery.svg" alt="BigQuery" title="BigQuery"/><img src="images/icons/bigtable.svg" alt="Bigtable" title="Bigtable"/><img src="images/icons/echo.svg" alt="Echo" title="Echo"/><img src="images/icons/gin.svg" alt="Gin" title="Gin"/><img src="images/icons/gorm.svg" alt="GORM" title="GORM"/><img src="images/icons/asynq.svg" alt="Asynq" title="Asynq"/><img src="images/icons/jwt.svg" alt="JWT" title="JWT"/><img src="images/icons/swagger.svg" alt="Swagger" title="Swagger"/>
+</p>
+
+<details>
+  <summary><b>🎨 Frontend</b></summary>
+  <br/>
+  <p align="center"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" alt="Frontend"/></p>
+</details>
+
+<details>
+  <summary><b>🧰 IDEs, editors &amp; OS</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,sublime,atom,figma,windows,linux" alt="IDEs, editors and OS"/>
+    <br/>
+    <img src="images/icons/goland.svg" alt="GoLand" title="GoLand"/><img src="images/icons/netbeans.svg" alt="NetBeans IDE" title="NetBeans IDE"/><img src="images/icons/codeblocks.svg" alt="Code::Blocks" title="Code::Blocks"/><img src="images/icons/xampp.svg" alt="XAMPP" title="XAMPP"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>🌐 Frequently visited websites</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://stackoverflow.com/"><img src="images/icons/stack-overflow.svg" alt="Stack Overflow" title="Stack Overflow"/></a><a href="https://medium.com/"><img src="images/icons/medium.svg" alt="Medium" title="Medium"/></a><a href="https://www.geeksforgeeks.org/"><img src="images/icons/geeksforgeeks.svg" alt="GeeksforGeeks" title="GeeksforGeeks"/></a>
+  </p>
+</details>
+
+## 🏆 Competitive Programming
+
+<p align="center">
+  <a href="https://codeforces.com/profile/ShariarHossain"><img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Codeforces rating"/></a>
+</p>
+
+<p align="center">
+  <img height="200" src="https://leetcard.jacoblin.cool/sun01822?theme=light&font=Karma&ext=contest" alt="LeetCode stats"/>
+  <img height="200" src="https://codeforces-readme-stats.vercel.app/api/card?username=ShariarHossain" alt="Codeforces stats"/>
+</p>
+
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=sun01822&animated=true" alt="LeetCode badges"/>
+  <img src="https://hacker-rank-stats-card.vercel.app/generate-card?username=shariarhossain&theme=light" alt="HackerRank stats"/>
+</p>
+
+<details>
+  <summary><b>🧩 Find me on judges</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://leetcode.com/sun01822/"><img src="images/icons/leetcode.svg" alt="LeetCode" title="LeetCode"/></a><a href="https://codeforces.com/profile/ShariarHossain"><img src="images/icons/codeforces.svg" alt="Codeforces" title="Codeforces"/></a><a href="https://www.hackerrank.com/ShariarHossain"><img src="images/icons/hackerrank.svg" alt="HackerRank" title="HackerRank"/></a><a href="https://www.codechef.com/users/sun01822"><img src="images/icons/codechef.svg" alt="CodeChef" title="CodeChef"/></a><a href="https://vjudge.net/user/Sun01822"><img src="images/icons/vjudge.svg" alt="Virtual Judge" title="Virtual Judge"/></a><a href="https://www.beecrowd.com.br/judge/en/profile/457135"><img src="images/icons/beecrowd.svg" alt="beecrowd" title="beecrowd"/></a><a href="https://onlinejudge.org/index.php?option=com_comprofiler&amp;Itemid=3"><img src="images/icons/uva.svg" alt="UVa Online Judge" title="UVa Online Judge"/></a><a href="https://toph.co/u/ShariarHossain"><img src="images/icons/toph.svg" alt="Toph" title="Toph"/></a>
+  </p>
+</details>
+
+## 📊 GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="30"/>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=sun01822&show_icons=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/streak?username=sun01822" alt="GitHub streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sun01822&layout=compact" alt="Top languages"/>
+</p>
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=sun01822" alt="GitHub trophies"/>
+</p>
+
+## 📚 Learning Now
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" title="Google Cloud"/>
+  <br/>
+  ☁️ Currently taking part in the <b>GCP Associate Cloud Engineer Exam Cohort 3</b>
+  <br/><br/>
+  <img alt="Status: in progress" src="https://img.shields.io/badge/Status-In%20Progress-FBBC04?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:mdshariarhossainsun01822@gmail.com" title="Gmail"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+  <a href="https://github.com/sun01822" title="GitHub"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/md-shariar-hossain-sun/" title="LinkedIn"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com/sun01822/" title="Facebook"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/sun01822/" title="Instagram"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+  <a href="https://www.youtube.com/channel/UCKDcAIXD1RwBoWnNwk6S4bg" title="YouTube"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="YouTube"/></a>
+</p>
+
+---
+
+<p align="center"><sub>Last updated: 21/11/2026 · Made with 💚 by <a href="https://github.com/sun01822">MD. Shariar Hossain Sun</a></sub></p>
