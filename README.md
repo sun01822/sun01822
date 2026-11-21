@@ -51,6 +51,8 @@
 | 🗄️ **−25% redundant DB calls** | Query refactor in Wellteam |
 | 🔐 **RBAC, 2FA (TOTP), JWT** | Pi-Access and Financfy |
 
+<br/>
+
 ## 🚀 Featured Projects
 
 | Project | Period | Highlights | Stack |
@@ -62,6 +64,8 @@
 | 🛡️ **Pi-Access** | Aug 2024 | RBAC for secure authentication and access control | `Go` `Gin` `Echo` `MySQL` `PostgreSQL` `JWT` |
 | 📝 **[Blog API](https://github.com/sun01822/Blog_API)** | Jan 2023 – Feb 2023 | User management with JWT and pagination, blog CRUD, reactions and comments | `Go` `Echo` `MySQL` `GORM` `JWT` |
 | 📱 **[CodePiece](https://github.com/sun01822/CodePiece)** | Aug 2023 – Feb 2024 | Android learning app: side-by-side syntax (C, C++, Java, Python), quizzes, admin dashboard, offline books | `Kotlin` `Firebase` `Retrofit` |
+
+<br/>
 
 ## 🛠️ Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/>
 
